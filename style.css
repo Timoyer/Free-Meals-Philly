@@ -11,7 +11,7 @@ h1,h2,h3 {font-weight: 400;}
 footer{width:70%; font-size:.8em; text-align: right; float:right; font-weight: 400;}
 
 ul{margin:0; padding:0;}
-
+ul li:hover{ }
 
 #main-container{width:100%; height:auto; overflow-x: scroll;}
 #wrapper-week-day{width:250%; height:auto; overflow-x: hidden; }
