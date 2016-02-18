@@ -1,0 +1,22 @@
+# Free-Meals-Philly
+A list of organizations, locations and times of free meals in Philadelphia.
+
+Goals: Create better resources to connect people to free meals, on the go, simple.
+
+Access Points:
+analogue: paper/pamphlet/brochure
+mobile friendly website
+map module on website, and interactive/filterable lists
+map module can be shared and embedded easily
+
+Primary User Story:
+Person walking on the street is looking for a free meal. This person pulls out their phone and navigates to FreeMealsPhilly.org. 
+
+The site uses their location. User opens mobile browser to reveal a map of meals distributed closest to them — combining geographical proximity w/ realtime information.
+
+Primary Audience:
+Anyone in Philadelphia w/ a smart phone looking for free meal or looking to help somone else access a free meal.
+
+
+Google Data Tables & Filter Ideas
+https://docs.google.com/spreadsheets/d/1cXuZi03zGsXHZ8V23nf40YajZbS7xVCiVhBjV04gj-U/edit#gid=0
